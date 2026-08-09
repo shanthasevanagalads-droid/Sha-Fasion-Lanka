@@ -1,0 +1,6 @@
+{
+  "name": "Sha Fashion Lanka",
+  "description": "Curating Sri Lankan craftsmanship and timeless luxury fashion for the modern aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
